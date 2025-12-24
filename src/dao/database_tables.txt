@@ -1,0 +1,6 @@
+database : appointment system
+Tables:
+    providers
+    services
+    availability_slots
+    appointments
